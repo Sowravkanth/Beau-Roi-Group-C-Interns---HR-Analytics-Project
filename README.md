@@ -1,8 +1,8 @@
 Beau Roi - Group C Interns - HR Data Analytics Project🎯 
 
-Project Objective :
+Objective :
 
-The project aims to conduct a comprehensive analysis of internal HR data covering 500 employees across multiple departments. 
+This Internship aims to conduct a comprehensive analysis of internal HR data covering 500 employees across multiple departments. 
 
 The focus is to identify key patterns in employee engagement, satisfaction, attrition, absenteeism, burnout risk, training effectiveness, and performance trends. 
 
